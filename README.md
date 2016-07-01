@@ -1,6 +1,9 @@
 # Android-AudioPlayer
 Read Songs From Device and Play
 
+![screenshot_audioplayer](https://cloud.githubusercontent.com/assets/20207324/16520855/97fc3d2e-3fb0-11e6-8f84-29b5ecb7571e.png)
+
+
 **Play local raw resource (application's res/raw/ directory)**
 ```
 MediaPlayer mediaPlayer = MediaPlayer.create(context, R.raw.sound_file_1);
